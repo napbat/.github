@@ -6,6 +6,7 @@ GitHub shows each file on every napbat repository that does not have its own fil
 | File | Purpose |
 | --- | --- |
 | [`SECURITY.md`](SECURITY.md) | The security policy and the procedure to report a vulnerability. |
+| [`profile/README.md`](profile/README.md) | The public profile on the napbat organization page. |
 
 ## Keep this repository public
 
