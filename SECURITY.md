@@ -4,13 +4,21 @@ This policy applies to every repository in the napbat organization.
 It also applies to the services that napbat operates under the `napbat.ca` domain.
 A repository can replace this policy with its own `SECURITY.md` file.
 
+## Security maintainer
+
+The napbat security maintainer receives and handles vulnerability reports.
+
+| Name | GitHub |
+| --- | --- |
+| Jon-Luke Biddle | [@coconutbird](https://github.com/coconutbird) |
+
 ## Report a vulnerability
 
 Report each vulnerability privately through GitHub.
 Do not report a vulnerability in a public issue, pull request, or discussion.
 A public report can expose users before a fix is available.
 
-Only you and the napbat security maintainers can see a private report.
+Only you and the napbat people who manage security can see a private report.
 GitHub adds you to the report as a collaborator.
 
 ### A vulnerability in a public repository
