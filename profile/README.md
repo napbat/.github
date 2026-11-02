@@ -1,6 +1,6 @@
 # napbat
 
-napbat is a software company in Canada.
+napbat is a software company.
 We build code intelligence and binary analysis tools.
 
 We have open-source repositories and closed-source repositories.
