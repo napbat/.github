@@ -24,7 +24,8 @@ The organization enables private vulnerability reporting with these settings:
 - Each public repository has private vulnerability reporting enabled.
 - This repository has private vulnerability reporting enabled.
   It receives reports for hosted services and private repositories.
-- The `Private vulnerability reporting` security configuration is the default for new public repositories.
+- The `Public repository defaults` security configuration is the default for new public repositories.
+  It enables private vulnerability reporting, secret scanning, and push protection.
   It changes no other security setting.
 
 ## Check
